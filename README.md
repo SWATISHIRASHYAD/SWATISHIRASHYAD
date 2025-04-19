@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SWATISHIRASHYAD
+- 👋 Hi, I’m SWATI SHIRASHYAD
 - 👀 I’m interested in Technical Innovation 
 - 🌱 I’m currently learning Computer Science Engineering(3rd year)
 
